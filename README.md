@@ -9,4 +9,4 @@ The program currently supports:
 - Allows for multiple actions to have the same keybind, for e.g. Start and Stop Playing: (=) key
 - Customisable safety settings to prevent accedental actions
 
-Sadly because of the application being publically small, Windows incorrectly identifies it as possible malware since there is not signiture, so on first loading the program you need to manually tell Windows Defender to run the app anyways.
+Sadly because of the application being publically small, Windows incorrectly identifies it as possible malware since there is no digital signiture, so on first loading the program you need to manually tell Windows Defender to run the app anyways.
