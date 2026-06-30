@@ -6,7 +6,7 @@ This program uses Pythons built in Tkinter library to create an extremely basic 
 The program currently supports:
 - Saving, Loading, and Deleting Macros
 - Binding keybinds to Play, Stop Playing, Record, and Stop Recording
-- Allows for multiple actions to have the same keybind, for e.g. Start and Stop Playing: (=) key
+- Allows for multiple actions to have the same keybind, for e.g. Start and Stop Playing can both be "F12" to make it toggle playing the macro
 - Customisable safety settings to prevent accedental actions
 
 Sadly because of the application being publically small, Windows incorrectly identifies it as possible malware since there is no digital signiture, so on first loading the program you need to manually tell Windows Defender to run the app anyways.
